@@ -15,7 +15,7 @@ Purpose for this project is to see differences between various languages in term
 - Then, I used Power BI for data virtualization.
 - In this virtualization, I showed comparison of count of words with different languages.
 
-![Azure Project 2 Power BI Report.jpg](Azure Project 2 Power BI Report.jpg)
+![Azure Project 2 Power BI Report](report.jpg)
 
 ## Github Repository Link:
 
